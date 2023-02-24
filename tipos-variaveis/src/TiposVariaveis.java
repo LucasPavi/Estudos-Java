@@ -4,7 +4,7 @@ public class TiposVariaveis {
 
         String meuNome = "Lucas Pavi";
 
-        final double PI = 3.14F;
+        final double PI = 3.14;
 
         byte temperatura = 10;
         long cpf = 10055821396L;
